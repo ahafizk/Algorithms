@@ -1,8 +1,8 @@
 #include<iostream>
 #include<vector>
 using namespace std;
-
-void insertion_sort(vector<int>& arr)
+template<typename T>
+void insertion_sort(vector<T>& arr)
 {
     int size = arr.size();
     for (int i=1;i<size;i++)
