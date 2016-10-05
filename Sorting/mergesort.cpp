@@ -45,12 +45,12 @@ int merge(vector<T>&arr, int low, int mid, int high)
         //breaks the loop if any of the array (L or R) reached to its end
         if (i >= n1 || j >= n2) break;
 
-        if (i < n1 && j<n2 && L.at(i)<=R.at(j))
+        if (L.at(i)<=R.at(j))
         {
             arr.at(k) = L.at(i);
             i++;
         }
-        else if (j<n2)
+        else
         {
             arr.at(k) = R.at(j);
             j++;
