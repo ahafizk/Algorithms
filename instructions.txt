@@ -13,3 +13,9 @@ git remote add origin https://github.com/mdkhan1/Algorithms.git
 git push -u origin master
 
 
+----
+git add Sorting/insertionsort.cpp
+ git commit -m "with template sort"
+ git remote add origin https://github.com/mdkhan1/Algorithms.git
+
+ git push -u origin master
