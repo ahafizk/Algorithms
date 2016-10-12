@@ -3,5 +3,7 @@ In this project all the learned algorithms are implemented to see how they reall
  - Sorting:
     1. **Insertion Sort**
     2. **Merge Sort**
+    3. **Quick Sort**
+    
  - Divide and Conquer:
    1. **Maximum Subarray**
