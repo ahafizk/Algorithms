@@ -11,3 +11,8 @@ In this project all the learned algorithms are implemented to see how they reall
    
  - Searching
    1. **Binary Search**
+   
+ - Data Structures
+    
+    1. **Linked List**
+    2. **Binary Search Tree**
