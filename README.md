@@ -5,5 +5,9 @@ In this project all the learned algorithms are implemented to see how they reall
     2. **Merge Sort**
     3. **Quick Sort**
     4. **Counting Sort**
+ 
  - Divide and Conquer:
    1. **Maximum Subarray**
+   
+ - Searching
+   1. **Binary Search**
