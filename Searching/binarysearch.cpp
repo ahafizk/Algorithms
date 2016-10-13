@@ -1,6 +1,10 @@
 #include<iostream>
 #include<vector>
 using namespace std;
+
+/*
+ * search a key in O(lg n) time
+*/
 int binary_search(vector<int> &A, int key, int low, int high)
 {
     if (low>high)
